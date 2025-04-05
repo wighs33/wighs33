@@ -3,7 +3,8 @@
 [![wighs33's GitHub stats](https://github-readme-stats.vercel.app/api?username=wighs33&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wighs33)](https://solved.ac/wighs33/)
 
-📌 기술 스택
+---
+📌 Skills
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=for-the-badge&logo=Unreal%20Engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
