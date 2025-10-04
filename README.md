@@ -37,3 +37,13 @@
 [![wighs33's GitHub stats](https://github-readme-stats.vercel.app/api?username=wighs33&show_icons=true&theme=radical)](https://github.com/wighs33/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wighs33&layout=compact)](https://github.com/wighs33/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wighs33)](https://solved.ac/wighs33/)
+
+---
+# 📌 Main Projects
+- [https://github.com/wighs33/Pandoras](Pandoras (UE5))
+- [https://github.com/wighs33/Graduation_Work](WINTER (UE4))
+- [https://github.com/wighs33/Harmagedon](Harmagedon (UE5))
+- [https://github.com/wighs33/Whac_A_Mole](Whac-A-Mole (Unity))
+- [https://github.com/wighs33/Bomberman_project](Terrorman (WinAPI, TCP))
+- [https://github.com/wighs33/scripts_project_bestSeller](BestSeller (Python tkinter, OpenAPI))
+- [https://github.com/wighs33/BattleCops](BattleCops (OpenGL))
