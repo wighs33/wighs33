@@ -40,10 +40,10 @@
 
 ---
 # 📌 Main Projects
-- [https://github.com/wighs33/Pandoras](Pandoras (UE5))
-- [https://github.com/wighs33/Graduation_Work](WINTER (UE4))
-- [https://github.com/wighs33/Harmagedon](Harmagedon (UE5))
-- [https://github.com/wighs33/Whac_A_Mole](Whac-A-Mole (Unity))
-- [https://github.com/wighs33/Bomberman_project](Terrorman (WinAPI, TCP))
-- [https://github.com/wighs33/scripts_project_bestSeller](BestSeller (Python tkinter, OpenAPI))
-- [https://github.com/wighs33/BattleCops](BattleCops (OpenGL))
+- [Pandoras (UE5)](https://github.com/wighs33/Pandoras)
+- [WINTER (UE4)](https://github.com/wighs33/Graduation_Work)
+- [Harmagedon (UE5)](https://github.com/wighs33/Harmagedon)
+- [Whac-A-Mole (Unity)](https://github.com/wighs33/Whac_A_Mole)
+- [Terrorman (WinAPI, TCP)](https://github.com/wighs33/Bomberman_project)
+- [BestSeller (Python tkinter, OpenAPI)](https://github.com/wighs33/scripts_project_bestSeller)
+- [BattleCops (OpenGL)](https://github.com/wighs33/BattleCops)
